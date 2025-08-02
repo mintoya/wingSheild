@@ -1,0 +1,13 @@
+if SHIELD_WING_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Wing_left"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+config ZMK_STUDIO
+    default y
+
+endif
+

@@ -1,3 +1,4 @@
+name: wing_sheild
 build:
   settings:
     board_root: .
